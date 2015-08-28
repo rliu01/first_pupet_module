@@ -1,0 +1,3 @@
+# first_puppet_module #
+
+This is the first_puppet_module module. It provides...

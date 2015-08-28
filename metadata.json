@@ -1,0 +1,16 @@
+{
+  "author": "rliu",
+  "dependencies": [
+	  
+  ] ,
+  "license": "Apache-2.0",
+  "name": "Administrator-first_puppet_module",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "https://github.com/rliu01/first_pupet_module",
+  "summary": "Collection of useful Puppet manifests for VC install.",
+  "tags": [],
+  "version": "0.2.0",
+  "description": "Collection of useful Puppet manifests for VC install."
+}
